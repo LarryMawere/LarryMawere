@@ -2,8 +2,6 @@
 
 <img src="./assets/larry_matrix_terminal.gif" width="100%" alt="Animated Matrix-style terminal banner" />
 
-# `LARRY MAWERE`
-
 ### CYBERSECURITY • SOFTWARE ENGINEERING • TECHNOLOGY
 
 ![System](https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&logo=linux&logoColor=black)
